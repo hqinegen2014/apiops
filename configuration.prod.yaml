@@ -1,0 +1,7 @@
+apimServiceName: dev-apim-hqin2
+namedValues:
+loggers:
+diagnostics:
+backends:
+apis:
+ 
